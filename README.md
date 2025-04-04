@@ -48,7 +48,7 @@ This repository is organized into course modules, each contained in separate fol
 25. Downstream Analysis of direct-RNA seq: *DESeq2, PCA, Fisher’s Exact Test, eQTL-style analysis* – **Students**
 
 ### IX. Single-Molecule Proteomic Sequencing & Genome Genetics-Ethics (May 27th) 
-26. Systems Biology Approaches to Transforming Human Health and Longevity – **Michnick/TBD**
+26. The Relationship Between Genetic Variation and Protein-Protein Interaction Networks – **Michnick**
 27. New Spatial Omics Methods and Applications for Clinical and Biomedical Research – **Rendeiro**  
 28. The Ethics of Human and other Genome Engineering – **Mason**
 
